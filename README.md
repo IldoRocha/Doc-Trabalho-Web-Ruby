@@ -2,17 +2,21 @@
 
 ## Índice
 
-|Utilitários|Ferramentas
-|-|-|
-|[Links úteis](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#links-%C3%BAteis)|[Vagrant](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#vagrant)|
-|[Via Sacra](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#via-sacra)|[Git](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#git)
-||[GitHub](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#github)
+|Ferramentas|Utilitários|Comandos|
+|-|-|-|
+|[Vagrant](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#vagrant)|[Links úteis](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#links-%C3%BAteis)|[Scaffold](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#scaffold)
+|[Git](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#git)|[Via Sacra](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#via-sacra)
+|[GitHub](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#github)|[Dentro da VM](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#dentro-da-vm)
+|[Virtual Box](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#virtual-box)|[Comandos](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#comandos)
+|[Rails](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#rails)|
+|[PostgreSQL](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#postgresql)|
+|[Ruby Version Manager (RVM)](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#ruby-version-manager-rvm)|
 
 ---
 
 ## Links úteis
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
 
 ![image](https://user-images.githubusercontent.com/85770280/189574241-4769cceb-44a6-404a-b9cb-ae4111643dbc.png)
 
@@ -32,30 +36,24 @@
 
 ## Via Sacra
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
 
-1. **Configurar ambiente**
-    - [x] Baixa Git
-    - [x] Baixa Git
-1. **Vagrant**
-    - [x] a
-1. **b**
-    - [x] a
-    - [x] a
-    - [x] a
-    - [x] a
+- [x] Criar repositório no GitHub
+- [x] Criar pasta para o projeto
+- [x] Checar existência e versões dos softwares
 
 ---
 
 ## Vagrant
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
 
-![image](https://user-images.githubusercontent.com/85770280/189573887-c8726a53-ae5c-47d3-9da3-b39bf37d2154.png)
+![image](https://user-images.githubusercontent.com/85770280/189581078-6b90d0bb-de54-4bbc-8501-c0183ed2e78d.png)
 
 > Utilizar o *Git Bash*
 
 1. **Verificar a existência e versão de softwares**
+
     ```
     vagrant --version
     ```
@@ -64,7 +62,7 @@
     ```
 1. **Instalar plugin do vagrant**
     ```
-    install vagrant-vbguest
+    Vagrant plugin install vagrant-vbguest
     ```
 1. **criar Vagrantfile**
     ```
@@ -103,208 +101,188 @@
 
 ## Git
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
 
-![image](https://user-images.githubusercontent.com/85770280/189572566-b46fea5e-f0af-4a95-9ef0-e2a4553f15b8.png)
+![image](https://user-images.githubusercontent.com/85770280/189580965-a4212a91-090f-48b1-8361-4207fdcbc341.png)
 
 1. Configurar usuário
-    1. - git config --global user.name "x"
-    1. - git config --global user.email "x@y"
+
+    ```
+    git config --global user.name "Antedeguemon"
+    ```
+    ```
+    git config --global user.email "email@.com"
+    ```
 
 ---
 
 ## GitHub
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
 
 ![image](https://user-images.githubusercontent.com/85770280/189575894-05c0eedb-7496-468d-928f-ce1e5055eebe.png)
 
-Utilizar GitHub para versionamento de código
-Criar um projeto no Github
-Clonar o projeto para a pasta
-c:\Projetos
 
+- Utilizar GitHub para versionamento de código
+- Criar um projeto no Github
+- Clonar o projeto para a pasta c:\Projetos
+
+```
 git clone https://github.com/iskailer/rails-ini.git
+```    
+```
 cd rails-ini
+```
 
 ---
 
-Verificar Ruby & Rails & PG
-Ruby -v
-Rails -v
-psql --version
+## Virtual Box
+
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
+
+![image](https://user-images.githubusercontent.com/85770280/189581023-59280385-0e6a-4daa-b934-81647860a3c9.png)
 
 ---
 
-gem install rails
-gem install rails -v 5.2.8
-gem install rails –version=5.2.8
+## Rails
+
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
+
+![image](https://user-images.githubusercontent.com/85770280/189581422-a93255b6-eb39-455d-8918-d3637459221e.png)
+
+1. **Princípios do rails**
+      * DRY Don’t Repeat Yourself
+      * CoC Convention Over Configuration
+
+1. **Verificar a existência e versão de softwares**
+
+    ```
+    Rails -v
+    ```
+1. **Gems**
+    ```
+    gem install rails
+    ```
+    ```
+    gem install rails -v 5.2.8
+    ```
+    ```
+    gem install rails –version=5.2.8
+    ```
+    
+---
+
+## PostgreSQL
+
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
+
+![image](https://user-images.githubusercontent.com/85770280/189582178-e6409d58-2fb1-4af9-99da-134a7adfb473.png)
+
+1. **Verificar a existência e versão de softwares**
+
+    ```
+    psql --version
+    ```
 
 ---
 
-Acessar pasta compartilhada
-cd ..
-ls
-cd vagrant
+## Ruby Version Manager (RVM)
 
----
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
 
-Acessar pasta compartilhada
-24
-cd ..
-ls
-cd vagrant
+![image](https://user-images.githubusercontent.com/85770280/189582378-05f033ee-c162-4a8f-be89-64db0a7dab04.png)
 
----
-
-Usar o RVM
+```
 rvm list
+```
+```
 rvm list known
+```
+```
 rvm install 2.3
+```
+```
 rvm use 2.6
+```
 
 ---
 
-Usar o Ruby puro
-ruby nome_arquivo.rb
+## Dentro da VM
+
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
+
+![gif](https://thumbs.gfycat.com/ShadyYearlyBovine-max-1mb.gif)
+
+1. **Acessar pasta compartilhada**
+
+1. **Usar o Ruby puro**
+    ```
+    ruby nome_arquivo.rb
+    ```
+
+1. **Usar o IRB - Interactive Ruby**
+
+    ```
+    Shell
+    irb
+    puts “teste direto”
+    “Feijao e bao demais”.reverse
+    exit
+    ```
+
+1. **Usar o Pry (Gem)**
+
+    ```
+    gem install pry
+    ```
+    ```
+    pry
+    puts “teste direto”
+    “Feijao e bao demais”.reverse
+    exit
+    ```
+
+1. **Rails**
+
+    ```
+    rails new projetinho
+    ```
+    ```
+    rails server -> rails s -b 0.0.0.0
+    ```
+    ```
+    rails _5.2_ new <nomedoprograma>
+    ```
+    ```
+    rails _5.2_ new <nomedoprograma> -d postgresql
+    ```
 
 ---
 
-Usar o IRB - Interactive Ruby
-Shell
-irb
-puts “teste direto”
-“Feijao e bao demais”.reverse
-exit
+## Comandos
 
----
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
 
-Pry (Gem)
-gem install pry
-pry
-puts “teste direto”
-“Feijao e bao demais”.reverse
-exit
-
----
-
-Rails
-rails new projetinho
-
----
-
-rails new projetinho
-
----
-
-Rails
-rails new projetinho
-cd projetinho
-rails server -> rails s -b 0.0.0.0
-
----
-
-Princípios do rails
-DRY
-(Don’t
-Repeat
-Yourself)
-CoC (Convention
-Over
-Configuration)
-
----
-
-Ruby On Rails
-PRIMEIRO APP/CRUD
-
----
-
-MVC
-Model - View - Controller
-
----
-
-rails
-rails new projetinho
-rails _5.2_ new <nomedoprograma>
-rails _5.2_ new <nomedoprograma> -d postgresql
-
----
-
-CREATE, READ, UPDATE, DELETE
-Operações básicas de manipulação
-de banco de dados!
-
----
-
-  SCAFFOLD
-O rails possui um gerador/generator
-chamado scaffold que cria
-automagicamente um CRUD para
-uma determinada “tabela”.
-
-  ---
+  #### SCAFFOLD  
   
-  rails generate scaffold <Model> <campo:tipo> <campo:tipo> ...
-  
-  ---
-  
-  CONVENÇÕES
-  SEMPRE EM INGLÊS
-  MODEL SEMPRE COM A PRIMEIRA
-  MAIÚSCULA E NO SINGULAR
-  TIPO STRING NÃO PRECISO DEFINIÇÃO
-  
-  ---
-  
-  rails generate scaffold <Model> <campo:tipo> <campo:tipo> ...
+  1. **Convenções**
+        * Sempre em inglês
+        * Model sempre com a primeira maiúscula e no singular
+        * Tipo string não precisa de definição
+
+  1. **Itens criados pelo SCAFFOLD**
+        * Views
+        * Helpers
+        * Controllers
+        * Models
+        * Migrations
+
+  ```
+  rails generate scaffold <Model> <campo:tipo> <campo:tipo> ...  
+  ```
+  ```
   rails g scaffold City description:string code:integer image
+  ```
   
   ---
-  
-  O que ele já criou
-  Views
-  Helpers
-  Controllers
-  Models
-  Migrations
-  
-  ---
-  
-  active record - Model
-  Camada responsável pela lógica de dados
-e negócio, ORM.
-  Framework de banco de dados baseado
-no padrão Active Record
 
-  ---
-  
-  ORM?
-  Uma técnica para mapear os dados
-em um banco de dados para
-classes/objetos na programação
-
-  ---
-  
-  Migrations
-۞ São uma funcionalidade do AR que
-permite especificar as tabelas do bd
-usando o Ruby;
-۞ Permite ações no BD sem utilizar SQL;
-۞ Disponibiliza a sequência de criação das
-tabelas do projeto;
-  Migrations controlam o que foi ou não
-aplicado através do db/schema.rb;
-۞ As migrations ficam em db/migrate;
-۞ Ao criar as migrações é preciso aplicá-las
-ao BD usando tasks predefinidas do Rails.
-  
- Rails dbconsole
-۞ rails dbconsole é o comando usado para
-conectar ao banco de dados e executar
-comandos para inspecioná-lo.
-۞ Uma alternativa para os gerenciadores
-próprios como o pgadmin
-  rails dbconsole
-  rails db
