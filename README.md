@@ -4,7 +4,7 @@
 
 |Ferramentas|Utilitários|Sub|
 |-|-|-|
-|[Vagrant](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#vagrant)|[Links úteis](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#links-%C3%BAteis)|[Scaffold](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#scaffold)
+|[Vagrant](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#vagrant)|[Links](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#links)|[Scaffold](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#scaffold)
 |[Git](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#git)|[Via Sacra](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#via-sacra)|[Tasks](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#tasks)
 |[GitHub](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#github)|[Dentro da VM](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#dentro-da-vm)|[Embedded Ruby](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#embedded-ruby)
 |[Virtual Box](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#virtual-box)|[Comandos](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#comandos)|[Helper](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#helper)
@@ -15,7 +15,7 @@
 
 ---
 
-## Links úteis
+## Links
 
 [Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
 
