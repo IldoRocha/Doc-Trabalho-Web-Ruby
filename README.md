@@ -7,8 +7,8 @@
 |[Vagrant](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#vagrant)|[Links úteis](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#links-%C3%BAteis)|[Scaffold](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#scaffold)
 |[Git](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#git)|[Via Sacra](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#via-sacra)|[Tasks](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#tasks)
 |[GitHub](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#github)|[Dentro da VM](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#dentro-da-vm)|[Embedded Ruby](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#embedded-ruby)
-|[Virtual Box](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#virtual-box)|[Comandos](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#comandos)|[Helper]()
-|[Rails](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#rails)|
+|[Virtual Box](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#virtual-box)|[Comandos](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#comandos)|[Helper](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#helper)
+|[Rails](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#rails)||[Rotas](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#rotas)
 |[PostgreSQL](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#postgresql)|
 |[Ruby Version Manager (RVM)](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#ruby-version-manager-rvm)|
 |[VSCode](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#vscode)||
