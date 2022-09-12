@@ -4,15 +4,15 @@
 
 |Utilitários|Ferramentas
 |-|-|
-|[Links úteis](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#links-%C3%BAteis)|[Vagrant](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#vagrant)|
-|[Via Sacra](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#via-sacra)|[Git](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#git)
-||[GitHub](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#github)
+|[Links úteis](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#links-%C3%BAteis)|[Vagrant](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#vagrant)|
+|[Via Sacra](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#via-sacra)|[Git](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#git)
+||[GitHub](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#github)
 
 ---
 
 ## Links úteis
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
 
 ![image](https://user-images.githubusercontent.com/85770280/189574241-4769cceb-44a6-404a-b9cb-ae4111643dbc.png)
 
@@ -32,7 +32,7 @@
 
 ## Via Sacra
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
 
 1. **Configurar ambiente**
     - [x] Baixa Git
@@ -49,7 +49,7 @@
 
 ## Vagrant
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
 
 ![image](https://user-images.githubusercontent.com/85770280/189573887-c8726a53-ae5c-47d3-9da3-b39bf37d2154.png)
 
@@ -103,7 +103,7 @@
 
 ## Git
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
 
 ![image](https://user-images.githubusercontent.com/85770280/189572566-b46fea5e-f0af-4a95-9ef0-e2a4553f15b8.png)
 
@@ -115,7 +115,7 @@
 
 ## GitHub
 
-[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/edit/main/README.md#%C3%ADndice)
+[Voltar ao índice](https://github.com/IldoRocha/Trabalho-Web-Ruby/blob/main/README.md#%C3%ADndice)
 
 ![image](https://user-images.githubusercontent.com/85770280/189575894-05c0eedb-7496-468d-928f-ce1e5055eebe.png)
 
